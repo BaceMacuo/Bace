@@ -1,0 +1,6 @@
+$ git log
+commit 3fbc4a5b7e49566d5e2c151eb6bec70480b31097 (HEAD -> master, origin/master)
+Author: BaceMacuo <bookao_o@mail.ru>
+Date:   Sat Mar 19 21:56:02 2022 +0300
+
+    first commit
