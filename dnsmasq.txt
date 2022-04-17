@@ -1,0 +1,11 @@
+domain=skers.com
+domain=fin.skers.com,192.168.23.20/24
+address=/skers.ilia/127.0.0.1
+
+server=/remoteoffice.org/192.168.23.10
+server=/23.168.192.in-addr.arpa/192.168.23.10
+
+dhcp-range=192.168.23.21,192.168.23.100,24h
+
+dhcp-host=08:00:27:B7:B2:8F,192.168.23.10
+dhcp-option=2,255.255.255.0
